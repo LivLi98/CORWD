@@ -1,0 +1,51 @@
+
+h2 {display: flex;
+    color: rgb(85, 6, 113)
+    
+}
+
+h3 { display: flex;
+    color: rgb(85, 6, 113)
+
+}
+
+h1 { 
+    text-align: center;
+    display: flex;
+    background-color: lightgreen;
+    border-radius: 2px;
+    padding: 1%;
+    color: rgb(85, 6, 113)
+
+}
+
+.topics {
+    display: flex; 
+    flex-direction: column;
+    font-size: 20px;
+    
+}
+
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;  
+}
+
+.space {
+    background-color: aquamarine;
+    display: inline-block;
+    margin: 0 50px ;
+    border-radius: 7px;
+    padding: 1%
+}
+p{
+    border-radius: 7px;
+background-color: lightgreen;
+text-align: center;
+display: flex;
+font-size: 25px;
+color: rgb(85, 6, 113)
+
+}
